@@ -1,0 +1,33 @@
+{
+    "teamnames": [
+        {
+            "id": 1,
+            "title": "fantastic five"
+        },
+        {
+            "id": 2,
+            "title": "geeky 4"
+        },
+        {
+            "id": 3,
+            "title": "byte hogs"
+        },
+        {
+            "id": 3,
+            "title": "bright byte domain"
+        },
+        {
+            "id": 3,
+            "title": "lunatic byte"
+        },
+        {
+            "id": 3,
+            "title": "tragic byte"
+        },
+        {
+            "id": 3,
+            "title": "mind hack zombies"
+        }
+
+    ]
+}
